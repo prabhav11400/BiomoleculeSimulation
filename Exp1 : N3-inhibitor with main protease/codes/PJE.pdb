@@ -1,0 +1,96 @@
+REMARK  FOR INFORMATIONS, PLEASE CONTACT:                                             
+REMARK  ZOETE VINCENT                                                                 
+REMARK  VINCENT.ZOETE_AT_ISB-SIB.CH                                                   
+REMARK  SWISS INSTITUTE OF BIOINFORMATICS                                             
+REMARK  MOLECULAR MODELING GROUP                                                      
+REMARK  QUARTIER SORGE - BATIMENT GENOPODE                                            
+REMARK  CH-1015 LAUSANNE                                                              
+REMARK  SWITZERLAND                                                                   
+REMARK  T: +41 21 692 4082                                                            
+REMARK ****************************************************************               
+REMARK   DATE:     4/20/23     16: 2:50      CREATED BY USER: vzoete                  
+ATOM      1  C4  LIG     1     -10.425   3.420  72.447  1.00  0.00      LIG 
+ATOM      2  C5  LIG     1      -9.924   2.857  73.642  1.00  0.00      LIG 
+ATOM      3  N2  LIG     1     -10.585   4.861  74.114  1.00  0.00      LIG 
+ATOM      4  C3  LIG     1     -10.848   4.738  72.810  1.00  0.00      LIG 
+ATOM      5  C6  LIG     1      -9.345   1.458  73.806  1.00  0.00      LIG 
+ATOM      6  O1  LIG     1     -10.048   3.755  74.575  1.00  0.00      LIG 
+ATOM      7  C41 LIG     1     -11.475   5.798  71.891  1.00  0.00      LIG 
+ATOM      8  O42 LIG     1     -11.062   5.943  70.793  1.00  0.00      LIG 
+ATOM      9  H1  LIG     1     -10.478   2.953  71.464  1.00  0.00      LIG 
+ATOM     10  H2  LIG     1      -9.041   1.309  74.842  1.00  0.00      LIG 
+ATOM     11  H3  LIG     1      -8.479   1.344  73.154  1.00  0.00      LIG 
+ATOM     12  H4  LIG     1     -10.100   0.718  73.539  1.00  0.00      LIG 
+ATOM     13  N   LIG     1     -12.583   6.625  72.374  1.00  0.00      LIG 
+ATOM     14  CA  LIG     1     -13.166   7.625  71.495  1.00  0.00      LIG 
+ATOM     15  C   LIG     1     -12.115   8.750  71.241  1.00  0.00      LIG 
+ATOM     16  O   LIG     1     -11.466   9.159  72.125  1.00  0.00      LIG 
+ATOM     17  CB  LIG     1     -14.397   8.218  72.132  1.00  0.00      LIG 
+ATOM     18  HN  LIG     1     -12.960   6.494  73.367  1.00  0.00      LIG 
+ATOM     19  HA  LIG     1     -13.436   7.161  70.547  1.00  0.00      LIG 
+ATOM     20  HB1 LIG     1     -14.827   8.966  71.466  1.00  0.00      LIG 
+ATOM     21  HB2 LIG     1     -14.127   8.687  73.078  1.00  0.00      LIG 
+ATOM     22  HB3 LIG     1     -15.128   7.430  72.313  1.00  0.00      LIG 
+ATOM     23  N1  LIG     1     -11.943   9.281  69.911  1.00  0.00      LIG 
+ATOM     24  CA1 LIG     1     -10.955  10.336  69.666  1.00  0.00      LIG 
+ATOM     25  C1  LIG     1     -11.663  11.606  69.273  1.00  0.00      LIG 
+ATOM     26  O2  LIG     1     -12.381  11.617  68.328  1.00  0.00      LIG 
+ATOM     27  CB1 LIG     1     -10.004   9.895  68.515  1.00  0.00      LIG 
+ATOM     28  CG1 LIG     1      -9.130  11.086  68.012  1.00  0.00      LIG 
+ATOM     29  CG2 LIG     1      -9.116   8.687  68.955  1.00  0.00      LIG 
+ATOM     30  HN1 LIG     1     -12.536   8.905  69.104  1.00  0.00      LIG 
+ATOM     31  HA1 LIG     1     -10.374  10.508  70.572  1.00  0.00      LIG 
+ATOM     32  HB  LIG     1     -10.624   9.564  67.682  1.00  0.00      LIG 
+ATOM     33 HG11 LIG     1      -8.477  10.745  67.209  1.00  0.00      LIG 
+ATOM     34 HG12 LIG     1      -8.524  11.466  68.835  1.00  0.00      LIG 
+ATOM     35 HG13 LIG     1      -9.777  11.881  67.641  1.00  0.00      LIG 
+ATOM     36 HG21 LIG     1      -8.461   8.399  68.133  1.00  0.00      LIG 
+ATOM     37 HG22 LIG     1      -9.754   7.845  69.223  1.00  0.00      LIG 
+ATOM     38 HG23 LIG     1      -8.513   8.974  69.816  1.00  0.00      LIG 
+ATOM     39  N3  LIG     1     -11.480  12.678  70.044  1.00  0.00      LIG 
+ATOM     40  CA2 LIG     1     -12.170  13.963  69.746  1.00  0.00      LIG 
+ATOM     41  C2  LIG     1     -11.804  14.454  68.341  1.00  0.00      LIG 
+ATOM     42  O3  LIG     1     -10.606  14.442  68.036  1.00  0.00      LIG 
+ATOM     43  CB2 LIG     1     -11.795  14.995  70.811  1.00  0.00      LIG 
+ATOM     44  CG  LIG     1     -12.566  14.876  72.122  1.00  0.00      LIG 
+ATOM     45  CD1 LIG     1     -12.470  16.162  72.925  1.00  0.00      LIG 
+ATOM     46  CD2 LIG     1     -14.017  14.514  71.861  1.00  0.00      LIG 
+ATOM     47  HN2 LIG     1     -10.828  12.614  70.890  1.00  0.00      LIG 
+ATOM     48  HA2 LIG     1     -13.246  13.797  69.787  1.00  0.00      LIG 
+ATOM     49  HB4 LIG     1     -10.733  14.883  71.031  1.00  0.00      LIG 
+ATOM     50  HB5 LIG     1     -11.978  15.988  70.400  1.00  0.00      LIG 
+ATOM     51  HG  LIG     1     -12.117  14.075  72.709  1.00  0.00      LIG 
+ATOM     52 HD11 LIG     1     -13.027  16.053  73.855  1.00  0.00      LIG 
+ATOM     53 HD12 LIG     1     -12.889  16.985  72.346  1.00  0.00      LIG 
+ATOM     54 HD13 LIG     1     -11.425  16.373  73.151  1.00  0.00      LIG 
+ATOM     55 HD21 LIG     1     -14.548  14.434  72.809  1.00  0.00      LIG 
+ATOM     56 HD22 LIG     1     -14.065  13.559  71.337  1.00  0.00      LIG 
+ATOM     57 HD23 LIG     1     -14.481  15.288  71.249  1.00  0.00      LIG 
+ATOM     58  C19 LIG     1     -11.832  15.491  65.878  1.00  0.00      LIG 
+ATOM     59  C20 LIG     1     -12.422  16.890  65.699  1.00  0.00      LIG 
+ATOM     60  C21 LIG     1     -11.667  17.948  65.902  1.00  0.00      LIG 
+ATOM     61  C22 LIG     1     -10.208  17.820  66.347  1.00  0.00      LIG 
+ATOM     62  C25 LIG     1     -12.437  14.594  64.806  1.00  0.00      LIG 
+ATOM     63  C26 LIG     1     -11.835  13.199  64.838  1.00  0.00      LIG 
+ATOM     64  C27 LIG     1     -10.368  13.241  64.572  1.00  0.00      LIG 
+ATOM     65  C28 LIG     1     -10.110  11.892  63.885  1.00  0.00      LIG 
+ATOM     66  N6  LIG     1     -11.386  11.531  63.232  1.00  0.00      LIG 
+ATOM     67  C29 LIG     1     -12.428  12.306  63.787  1.00  0.00      LIG 
+ATOM     68  O8  LIG     1     -13.559  12.260  63.495  1.00  0.00      LIG 
+ATOM     69  N5  LIG     1     -12.282  14.994  67.123  1.00  0.00      LIG 
+ATOM     70  O7  LIG     1      -9.943  17.785  67.572  1.00  0.00      LIG 
+ATOM     71  H14 LIG     1     -10.743  15.505  65.822  1.00  0.00      LIG 
+ATOM     72  H15 LIG     1     -13.464  17.010  65.404  1.00  0.00      LIG 
+ATOM     73  H16 LIG     1     -12.091  18.941  65.749  1.00  0.00      LIG 
+ATOM     74  H17 LIG     1      -9.409  17.760  65.608  1.00  0.00      LIG 
+ATOM     75  H5  LIG     1     -13.512  14.519  64.973  1.00  0.00      LIG 
+ATOM     76  H6  LIG     1     -12.251  15.037  63.828  1.00  0.00      LIG 
+ATOM     77  H7  LIG     1     -12.007  12.758  65.820  1.00  0.00      LIG 
+ATOM     78  H8  LIG     1     -10.112  14.072  63.915  1.00  0.00      LIG 
+ATOM     79  H9  LIG     1      -9.803  13.323  65.500  1.00  0.00      LIG 
+ATOM     80  H10 LIG     1      -9.317  11.988  63.144  1.00  0.00      LIG 
+ATOM     81  H11 LIG     1      -9.832  11.137  64.621  1.00  0.00      LIG 
+ATOM     82  H12 LIG     1     -11.502  10.798  62.461  1.00  0.00      LIG 
+ATOM     83  H13 LIG     1     -13.350  15.043  67.156  1.00  0.00      LIG 
+TER      84      LIG      1
+END

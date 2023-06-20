@@ -1,0 +1,9 @@
+receptor = 6lu7_prepared.pdbqt
+exhaustiveness  = 8
+center_x = -13.9032509584
+center_y = 8.36318141663
+center_z = 62.8374510061
+size_x = 25.0
+size_y = 25.0
+size_z = 25.0
+cpu = 7

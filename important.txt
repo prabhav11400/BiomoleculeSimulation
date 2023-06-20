@@ -1,0 +1,7 @@
+Since the simulation output file(i.e. the trajectory file) is very large, I cannot push it into the github. So I am providing a google drive link which will show the output file, except that all codes are given in the same git repository
+
+For Exp1: N3-inhibitor with Main Protease: https://drive.google.com/drive/folders/1jonF8WQNNV_exOIiI8ssBW98keuDWi2S?usp=sharing
+
+For Exp2: Mpro-Niazirin: https://drive.google.com/drive/folders/1KLGD9DL-heDIY4RmwgsZCRDY4oLCWnwF?usp=sharing
+
+
